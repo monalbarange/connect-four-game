@@ -1,0 +1,44 @@
+.main-div {
+    max-width: 550px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+ .heading {
+    color: orange;
+    text-decoration: underline;
+    text-align: center;
+  }
+  
+  .line {
+    color: #020067;
+    font-size: 18px;
+    font-weight: 500;
+  }
+  
+  .list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .listItems {
+    margin-bottom: 10px;
+    color: #020067;
+    font-size: 18px;
+    font-weight: 500;
+  }
+  
+  .start-button {
+    background-color: orange;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 7px;
+    justify-self: center;
+    width: 7vw;
+  }
+
+  

@@ -1,0 +1,15 @@
+.player-count{
+    font-size: 23px;
+    color: fuchsia;
+  }
+  .play-btn{
+    background-color: orange;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 7px;
+    width: 7vw;
+  }
